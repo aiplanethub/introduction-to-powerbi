@@ -1,0 +1,4 @@
+Microsoft Power BI is a collection of software services, apps, and connectors that turn unrelated sources of data into coherent, interactive insights. Whether your data is in a workbook or in a collection of cloud-based and on-premises data warehouses, Power BI lets data analysts connect to their data sources, visualize (or discover) what's important, and share their findings.
+
+Power BI consists of a Microsoft Windows desktop application called Power BI Desktop, an online SaaS (Software as a Service) called the Power BI service, and mobile Power BI apps that are available on any device, with native mobile BI apps for Windows, iOS, and Android.
+![pbi-intro-01.png](https://dphi-live.s3.amazonaws.com/media_uploads/pbi-intro-01_6cbe711aacda4f5fb1680a276217d9bb.png)
