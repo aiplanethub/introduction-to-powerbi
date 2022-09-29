@@ -1,5 +1,13 @@
 Creating a great data model is one of the most important tasks that a data analyst can perform in Microsoft Power BI. By doing this job well, you help make it easier for people to understand your data, which will make building valuable Power BI reports easier for them and for you.
 
+A good data model offers the following benefits:
+
+* Faster data exploration
+* Simpler aggregation building
+* More accurate reporting
+* Quicker report writing
+* Easier report maintenance
+
 Providing set rules for what makes a good data model is difficult because all data is different, and the usage of that data varies. Generally, a smaller data model is better because it will perform faster, and it will be simpler to use. However, defining what a smaller data model entails is equally as problematic because it's a heuristic and subjective concept.
 ![modeling-view_05.png](https://dphi-live.s3.amazonaws.com/media_uploads/modeling-view_05_36b50128b1b945e8a0b099bfc3bc197f.png)
 Why data modeling is important ?
