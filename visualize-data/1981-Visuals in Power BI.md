@@ -12,7 +12,7 @@ Area Charts in Power BI are also known as layered area charts and you can see wh
 
 * Line Charts
 
-Line charts are one of the most-used and recognised charts to display data. The data points are connected by a straight line with each of the points in the line corresponding to a data value. Line charts are best used to measure trends over a period of time.
+Line charts are one of the most-used and recognized charts to display data. The data points are connected by a straight line with each of the points in the line corresponding to a data value. Line charts are best used to measure trends over a period of time.
 
 ![Screenshot (937).png](https://dphi-live.s3.amazonaws.com/media_uploads/Screenshot_937_ea2ab5b3210d4bfcb5adfedd0468090e.png)
 
