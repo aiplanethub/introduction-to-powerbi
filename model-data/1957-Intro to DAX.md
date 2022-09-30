@@ -9,8 +9,13 @@ For example, assume that you are importing data from a database that contains sa
 The following figure shows how the initial shape of the data appears in a Power BI table visual.
 ![02-table-visual-ss.png](https://dphi-live.s3.amazonaws.com/media_uploads/02-table-visual-ss_230ea0962ae740089be180f2bc559b78.png)
 
+You can start using DAX by creating a calculated column that multiplies the unit price with the quantity. The calculated column will create a value for each row called Total Price. Create the new column by selecting the ellipsis (...) button on the table in the Fields list and then selecting New column.
+
 ### Use measures
 
 Calculated columns are useful when you need to operate row by row. However, other situations might require a simpler method. For example, consider a situation wherein you want an aggregation that operates over the entire dataset, and you want the total sales of all rows. Furthermore, you want to slice and dice that data by other criteria like total sales by year, by employee, or by product.
 
 To accomplish those tasks, you would use a measure. You can build a measure without writing DAX code; Power BI will write it for you when you create a quick measure.
+
+Similar to how you created a calculated column, you can go to the Fields list, click the three-dot ellipsis on the selected field and select New measure.
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_32af861174e546be94bda79e10d7bf63.png)
