@@ -1,21 +1,21 @@
-Power BI visuals are attractive charts and graphics that you can use to revitalize your data. Visuals allow you to share data insights more effectively and increase comprehension, retention, and appeal. Visuals are a fundamental part of your report because they help your report audience connect and interact with the information to make informed decisions quickly.
+Power BI visuals are attractive charts and graphics that you can use to revitalize your data. 
 
-Power BI comes with many out-of-the-box Power BI visuals. These visuals are available in the visualization pane of both Power BI Desktop and Power BI Service, and can be used for creating and editing Power BI content. The full library of available visualisations can be found in the [Microsoft Appstore](https://appsource.microsoft.com/en-GB/marketplace/apps?product=power-bi-visuals), where there are over 300 visual types to choose from.
+Visuals allow you to share data insights more effectively and increase comprehension, retention, and appeal. Visuals are a fundamental part of your report because they help your report audience connect and interact with the information to make informed decisions quickly.
 
-In Power BI Desktop, each visual is represented by an icon in the Visualizations pane. The types of visuals that are available include charts, maps, cards, a table, a matrix, and many more. You will learn how to select the correct visual later in this module.
+Power BI comes with many out-of-the-box Power BI visuals. These visuals are available in the visualization pane of both Power BI Desktop and Power BI Service, and can be used for creating and editing Power BI content. The full library of available visualizations can be found in the **[Microsoft Appstore](https://appsource.microsoft.com/en-GB/marketplace/apps?product=power-bi-visuals)**, where there are over 300 visual types to choose from.
+
+In Power BI Desktop, each visual is represented by an icon in the Visualizations pane. The types of visuals that are available include *charts*, *maps*, *cards*, a *table*, a *matrix*, and many more. You will learn how to select the correct visual later in this module.
 
 ![Screenshot (934).png](https://dphi-live.s3.amazonaws.com/media_uploads/Screenshot_934_de9e4862acd64e10b7f27400f62f8c50.png)
 
 * Area Charts
  
-Area Charts in Power BI are also known as layered area charts and you can see why in the image below. The area between the line and axis is shaded with color to indicate volume. 
+Area Charts in Power BI are also known as **layered area charts**. The area between the line and axis is shaded with color to indicate volume. 
 
 * Line Charts
 
-Line charts are one of the most-used and recognized charts to display data. The data points are connected by a straight line with each of the points in the line corresponding to a data value. Line charts are best used to measure trends over a period of time.
-
-![Screenshot (937).png](https://dphi-live.s3.amazonaws.com/media_uploads/Screenshot_937_ea2ab5b3210d4bfcb5adfedd0468090e.png)
-
+Line charts are one of the most-used and recognized charts to display data. The data points are connected by a straight line with each of the points in the line corresponding to a data value. **Line charts are best used to measure trends over a period of time.**
+![Screenshot (937).png](https://dphi-live.s3.amazonaws.com/media_uploads/Screenshot_937_465697c6800f40a28711c0047f76a8cf.png)
 * Bar Charts
 
 Bar charts are a popular choice because they are simple to create and easy to interpret. Bar charts are useful when there is a need to display data that includes negative values as it is possible to position the bars below as well as above the x-axis.
@@ -34,7 +34,7 @@ Scatter charts use dots to demonstrate the relationship between two different va
 
 * Bubble Charts
 
-A bubble graph is used to visualize data set with three dimensions. It is quite similar to the Scatter chart, however, the scatter chart has two value axes – one numerical data long horizontal axis and one along the vertical axis, showing the relationship between the two numerical values.
+A bubble graph is used to visualize data set with three dimensions. It is quite similar to the Scatter chart, however, the scatter chart has two value axes – **one numerical data long horizontal axis** and **one along the vertical axis**, showing the relationship between the two numerical values.
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_d5fb6c2cfbab47c78bf85562b92bd5d8.png)
 
 * KPIs
@@ -47,7 +47,7 @@ KPIs work best in a series, for instance, showing the daily, monthly, and yearly
 
 * Maps
 
-There are a range of map visualizations available within Power BI. The most common types of map are ‘Bubble Map’, ‘Filled Map’ and ‘Shape Map’, all of which are power by Bing Maps.
+There are a range of map visualizations available within Power BI. The most common types of map are ‘Bubble Map’, ‘Filled Map’ and ‘Shape Map’.
 
 1) Bubble Map
 
@@ -59,4 +59,5 @@ There are a range of map visualizations available within Power BI. The most comm
 
 3) Shape Map
 
+The Shape map visual is only available in Power BI Desktop and not in Power BI service or mobile
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_d9a955a65ea342bbaf2b3cbeae4f5cf6.png)
