@@ -1,1 +1,1 @@
-**Hello world!!!**
+Power BI visuals are attractive charts and graphics that you can use to revitalize your data. Visuals allow you to share data insights more effectively and increase comprehension, retention, and appeal. Visuals are a fundamental part of your report because they help your report audience connect and interact with the information to make informed decisions quickly.
