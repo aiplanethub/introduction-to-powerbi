@@ -1,5 +1,34 @@
 Data Analysis Expressions (DAX) is a programming language that is used throughout Microsoft Power BI for creating calculated columns, measures, and custom tables. It is a collection of functions, operators, and constants that can be used in a formula, or expression, to calculate and return one or more values. You can use DAX to solve a number of calculations and data analysis problems, which can help you create new information from data that is already in your model.
 
+### Syntax
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_0b566de82fea477b9432bd06c3f59d5e.png)
+
+**A.** The measure name, *Total Sales*.
+
+**B.** The equals sign operator (=), which indicates the beginning of the formula. When calculated, it will return a result.
+
+**C.** The DAX function SUM, which adds up all of the numbers in the *Sales[SalesAmount]* column. 
+
+**D.** Parenthesis (), which surround an expression that contains one or more arguments. Most functions require at least one argument. An argument passes a value to a function.
+
+**E.** The referenced table, *Sales*.
+
+**F.** The referenced column, *[SalesAmount]*, in the *Sales* table. With this argument, the **SUM** function knows on which column to aggregate a **SUM**.
+
+### Note :
+If a table name contains spaces, reserved keywords, or disallowed characters, you must enclose the table name in single quotation marks. You’ll also need to enclose table names in quotation marks if the name contains any characters outside the ANSI alphanumeric character range, regardless of whether your locale supports the character set or not.
+
+### Functions 
+Functions are predefined formulas that perform calculations by using specific values, called arguments, in a particular order or structure. Arguments can be other functions, another formula, expression, column references, numbers, text, logical values.
+
+**DAX functions are unique in the following ways:**
+
+- A DAX function always references a complete column or a table.
+
+- DAX provides functions that let you use the current row value or a related value as a kind of argument.
+
+- DAX includes many functions that return a table rather than a value. The table isn't displayed, but is used to provide input to other functions. 
+
 ### Use calculated columns
 
 DAX allows you to augment the data that you bring in from different data sources by creating a calculated column that didn't originally exist in the data source. This feature should be used sparingly, which will be explained later in this module.
