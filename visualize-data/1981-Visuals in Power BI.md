@@ -1,10 +1,10 @@
 Power BI visuals are attractive charts and graphics that you can use to revitalize your data. 
 
-Visuals allow you to share data insights more effectively and increase comprehension, retention, and appeal. Visuals are a fundamental part of your report because they help your report audience connect and interact with the information to make informed decisions quickly.
+**Visuals** allow you to share data insights more effectively and increase comprehension, retention, and appeal. Visuals are a fundamental part of your report because they help your report audience connect and interact with the information to make informed decisions quickly.
 
-Power BI comes with many out-of-the-box Power BI visuals. These visuals are available in the visualization pane of both Power BI Desktop and Power BI Service, and can be used for creating and editing Power BI content. The full library of available visualizations can be found in the **[Microsoft Appstore](https://appsource.microsoft.com/en-GB/marketplace/apps?product=power-bi-visuals)**, where there are over 300 visual types to choose from.
+Power BI comes with many out-of-the-box Power BI visuals. These visuals are available in the visualization pane of both *Power BI Desktop* and *Power BI Service*, and can be used for creating and editing Power BI content. The full library of available visualizations can be found in the **[Microsoft Appstore](https://appsource.microsoft.com/en-GB/marketplace/apps?product=power-bi-visuals)**, where there are over 300 visual types to choose from.
 
-In Power BI Desktop, each visual is represented by an icon in the Visualizations pane. The types of visuals that are available include *charts*, *maps*, *cards*, a *table*, a *matrix*, and many more. You will learn how to select the correct visual later in this module.
+In Power BI Desktop, each visual is represented by an icon in the **Visualizations pane**. The types of visuals that are available include *charts*, *maps*, *cards*, a *table*, a *matrix*, and many more. You will learn how to select the correct visual later in this module.
 
 ![Screenshot (934).png](https://dphi-live.s3.amazonaws.com/media_uploads/Screenshot_934_de9e4862acd64e10b7f27400f62f8c50.png)
 
