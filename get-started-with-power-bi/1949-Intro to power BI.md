@@ -1,3 +1,12 @@
+### WHAT WILL YOU ACCOMPLISH FROM THIS COURSE
+
+
+* Describe the key components of Power BI. 
+* Identify the steps on how to bring in data from different sources into Power BI and transform the data.
+* The process of setting up and managing data relationships for the data model
+* Identify appropriate DAX measures for your analysis
+* The process of customizing reports using color themes, grids and custom visuals
+
 **Microsoft Power BI** 
 is a collection of software services, apps, and connectors that turn unrelated sources of data into coherent, interactive insights. Whether your data is in a workbook or in a collection of cloud-based and on-premises data warehouses, Power BI lets data analysts connect to their data sources, visualize (or discover) what's important, and share their findings.
 
