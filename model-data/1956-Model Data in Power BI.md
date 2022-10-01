@@ -1,6 +1,8 @@
 Creating a great data model is one of the most important tasks that a data analyst can perform in Microsoft Power BI. By doing this job well, you help make it easier for people to understand your data, which will make building valuable Power BI reports easier for them and for you.
 
-Data modeling is one of the foundations of your Power BI reports, so it’s important to set it up correctly. It’s crucial to create a well-developed data model to help you fully communicate your organization’s information. Data modeling helps you optimize your tables and columns. Doing it right will save you so much time.
+**Data modeling** is one of the foundations of your Power BI reports, so it’s important to set it up correctly. It’s crucial to create a well-developed data model to help you fully communicate your organization’s information.
+
+**Data modeling helps you optimize your tables and columns. Doing it right will save you so much time.**
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_b563b0649ec74139a2784755905b9c93.png)
 
