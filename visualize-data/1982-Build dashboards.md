@@ -1,4 +1,4 @@
-Microsoft Power BI dashboards are different than Power BI reports. Dashboards allow report consumers to create a single artifact of directed data personalized just for them. Dashboards can be comprised of pinned visuals taken from different reports.
+Microsoft Power BI dashboards are different than Power BI reports. **Dashboards** allow report consumers to create a single artifact of directed data personalized just for them. **Dashboards** can be comprised of pinned visuals taken from different reports.
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_73768fd9ce0a411b90e42694447cf4aa.png)
 
 You create reports over your data model using the tables, columns and visualization tools. You can't create a dashboard this way. Once you have a report, you can pin individual visualizations from a report into a dashboard. Dashboards can have multiple tiles from different reports and different data models. When they click on a tile, the report opens. 
