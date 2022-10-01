@@ -1,4 +1,6 @@
-Data Analysis Expressions (DAX) is a programming language that is used throughout Microsoft Power BI for creating calculated columns, measures, and custom tables. It is a collection of functions, operators, and constants that can be used in a formula, or expression, to calculate and return one or more values. You can use DAX to solve a number of calculations and data analysis problems, which can help you create new information from data that is already in your model.
+**Data Analysis Expressions (DAX)** is a programming language that is used throughout Microsoft Power BI for creating calculated columns, measures, and custom tables. It is a collection of functions, operators, and constants that can be used in a formula, or expression, to calculate and return one or more values. 
+
+You can use DAX to solve a number of calculations and data analysis problems, which can help you create new information from data that is already in your model.
 
 ### Syntax
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_0b566de82fea477b9432bd06c3f59d5e.png)
@@ -38,7 +40,7 @@ For example, assume that you are importing data from a database that contains sa
 The following figure shows how the initial shape of the data appears in a Power BI table visual.
 ![02-table-visual-ss.png](https://dphi-live.s3.amazonaws.com/media_uploads/02-table-visual-ss_230ea0962ae740089be180f2bc559b78.png)
 
-You can start using DAX by creating a calculated column that multiplies the unit price with the quantity. The calculated column will create a value for each row called Total Price. Create the new column by selecting the ellipsis (...) button on the table in the Fields list and then selecting New column.
+You can start using DAX by creating a calculated column that multiplies the unit price with the quantity. The calculated column will create a value for each row called Total Price. Create the new column by selecting the ellipsis **(...)** button on the table in the Fields list and then selecting **New column**.
 
 ### Use measures
 
@@ -46,5 +48,8 @@ Calculated columns are useful when you need to operate row by row. However, othe
 
 To accomplish those tasks, you would use a measure. You can build a measure without writing DAX code; Power BI will write it for you when you create a quick measure.
 
-Similar to how you created a calculated column, you can go to the Fields list, click the three-dot ellipsis on the selected field and select New measure.
+Similar to how you created a calculated column, you can go to the Fields list, click the three-dot ellipsis on the selected field and select **New measure**
+.
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_32af861174e546be94bda79e10d7bf63.png)
+
+[Reference](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics)
