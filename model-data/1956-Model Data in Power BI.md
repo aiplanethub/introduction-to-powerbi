@@ -1,6 +1,6 @@
-Creating a great data model is one of the most important tasks that a data analyst can perform in Microsoft Power BI. By doing this job well, you help make it easier for people to understand your data, which will make building valuable Power BI reports easier for them and for you.
+Creating a great data model is one of the most important tasks a data analyst can perform in Microsoft Power BI. By doing this job well, you help make it easier for people to understand your data, which will make building valuable Power BI reports easier for them and you.
 
-**Data modeling** is one of the foundations of your Power BI reports, so it’s important to set it up correctly. It’s crucial to create a well-developed data model to help you fully communicate your organization’s information.
+**Data modeling** is one of the foundations of your Power BI reports, so it's important to set it up correctly. Creating a well-developed data model to help you fully communicate your organization's information is crucial.
 
 **Data modeling helps you optimize your tables and columns. Doing it right will save you so much time.**
 
@@ -20,7 +20,7 @@ Creating a great data model is one of the most important tasks that a data analy
 * Quicker report writing
 * Easier report maintenance
 
-Providing set rules for what makes a good data model is difficult because all data is different, and the usage of that data varies. Generally, a smaller data model is better because it will perform faster and it will be simpler to use. However, defining what a smaller data model entails is equally as problematic because it's a heuristic and subjective concept.
+Providing set rules for what makes a good data model is difficult because all data is different, and the usage of that data varies. Generally, a smaller data model is better because it will perform faster and be simpler to use. However, defining what a smaller data model entails is equally problematic because it's a heuristic and subjective concept.
 
 
 
@@ -33,7 +33,7 @@ Providing set rules for what makes a good data model is difficult because all da
 ---
 
 ### **Why is data modeling important ?**
-By modeling your data, you’ll document what data you have, how you use it, and what your requirements are surrounding usage, protection, and governance. Through data modeling, your organization:
+By modeling your data, you'll document what data you have, how you use it, and your requirements for usage, protection, and governance. Through data modeling, your organization:
 
 1) Creates a structure for collaboration between your IT team and your business teams.
 2) Exposes opportunities for improving business processes by defining data needs and uses.
@@ -42,7 +42,7 @@ By modeling your data, you’ll document what data you have, how you use it, and
 5) Increases the speed and performance of data retrieval and analytics by planning for capacity and growth.
 6) Sets and tracks target key performance indicators tailored to your business objectives.
 
-So, it isn’t just what you get with data modeling but also how you get it. The process itself provides significant benefits.
+So, it isn't just what you get with data modeling but also how you get it. The process itself provides significant benefits.
 
 
 When talking about data modeling in general, the term you will hear most often is the **star schema**. This is a widely adopted approach to designing data warehouses and relational databases and is the recommended approach to take in Power BI as well.  
@@ -58,7 +58,7 @@ You can design a **star schema** to simplify your data. It's not the only way to
 
 A **fact table** is made up of values that can be summarized and aggregated, as well as one or more keys that link to the dimension tables. 
 
-**Fact tables** should be very narrow and include as few columns as possible. Any columns that describe the features of a dataset.
+**Fact tables** should be very narrow and include as few columns as possible - any columns that describe the features of a dataset should be included.
 
 **Fact tables** contain information about events like sales orders, shipping dates, resellers, and suppliers.
 
@@ -90,7 +90,7 @@ Each model relationship is defined by a cardinality type. There are four cardina
 - Many-to-many (*:*)
 
 **NOTE:**
-In Power BI Desktop model view, you can interpret a relationship's cardinality type by looking at the indicators (1 or *) on either side of the relationship line.
+In the Power BI Desktop model view, you can interpret a relationship's cardinality type by looking at the indicators (1 or *) on either side of the relationship line.
 
 
 
