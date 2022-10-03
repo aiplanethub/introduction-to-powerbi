@@ -1,4 +1,4 @@
-### WHAT WILL YOU ACCOMPLISH FROM THIS COURSE
+### What you will accomplish through this Course
 
 
 * Describe the key components of Power BI. 
